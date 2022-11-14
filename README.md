@@ -1,4 +1,7 @@
 # lobiko
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a921bcaf6cc2403bbe7767aa90974aa6)](https://app.codacy.com/gh/enigma972/lobiko?utm_source=github.com&utm_medium=referral&utm_content=enigma972/lobiko&utm_campaign=Badge_Grade_Settings)
+
 A Cloud based blood banks management system (stocks, orders, etc). And facilitate access (research) of bloodstock to hospitals and clinics via an intuitive online search (search engine) portal.
 
 ## Recommended IDE Setup
